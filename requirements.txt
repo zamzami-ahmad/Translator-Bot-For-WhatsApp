@@ -1,0 +1,8 @@
+pyautogui
+pillow
+pytesseract
+googletrans
+time
+re
+sys
+requests
